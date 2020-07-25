@@ -1,1 +1,1 @@
-# NBTP
+chinese translation pack
